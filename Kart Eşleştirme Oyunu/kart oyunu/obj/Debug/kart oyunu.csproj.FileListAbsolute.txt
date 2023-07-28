@@ -1,0 +1,10 @@
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\bin\Debug\kart oyunu.exe.config
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\bin\Debug\kart oyunu.exe
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\bin\Debug\kart oyunu.pdb
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart oyunu.csproj.AssemblyReference.cache
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart_oyunu.Form1.resources
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart_oyunu.Properties.Resources.resources
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart oyunu.csproj.GenerateResource.cache
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart oyunu.csproj.CoreCompileInputs.cache
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart oyunu.exe
+C:\Users\veysel\source\repos\kart oyunu\kart oyunu\obj\Debug\kart oyunu.pdb
